@@ -1,0 +1,8 @@
+PUT http://localhost:3001/api/notes/62340219898ae711b9f6163a
+Content-Type:application/json
+
+{
+    "content":"bienvenidoFd",
+    "important":true
+}
+
